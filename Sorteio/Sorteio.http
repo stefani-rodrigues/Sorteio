@@ -1,0 +1,6 @@
+@Sorteio_HostAddress = http://localhost:5027
+
+GET {{Sorteio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
